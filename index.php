@@ -102,7 +102,7 @@
                         </td>
                         <th scope = "row" class = "text-center">
                             <button type="button" class="btn btn-success">
-                                <a href="edit-user.php
+                                <a href="edit-user.php?
                                     id= <?php echo $show['id']?> &
                                     user_name = <?php echo $show['user_name']?> &
                                     gender = <?php echo $show['gender']?> &
